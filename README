@@ -1,0 +1,3 @@
+To run your tests do the following:
+
+ruby -I. test_person.rb
